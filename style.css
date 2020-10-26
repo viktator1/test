@@ -1,0 +1,18 @@
+body{
+	background-color: rgba(197, 183, 241,0.3);
+}
+
+li{
+	display: inline;
+}
+
+h1{
+	text-align: center;
+	border: solid red;
+}
+p{
+	line-height: 30px;
+	font-size: 100%;
+	font-family: 'Raleway', sans-serif;
+}
+
